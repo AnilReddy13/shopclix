@@ -1,0 +1,59 @@
+.image{
+    height: 40px;
+    width: 100%;
+}
+.navbar-nav{
+    font-size: 12px;
+    color: black;
+    font-weight: 600;
+}
+
+.content{
+    text-align: center;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+p{
+    margin: 2px;
+    margin-left: 80px;
+}
+.green{
+    color: green;
+    font-family: italic;
+    font-size: 30px;
+    font-weight: bold;
+    font-weight: 700;
+}
+.orange{
+    color: orange;
+    font-family: italic;
+    font-size: 30px;
+    font-weight: bold;
+}
+.search{
+    margin-left: 5px;
+    margin-top: 6px;
+    height: 35px;
+    width: 20vw;
+    border-color: black;
+    border-width: 4px;
+    border-radius: 15px;
+}
+::placeholder{
+    color: blue;
+    font-size: 18px;
+    font-family: Roboto;
+    padding-left: 5px;
+}
+.button{
+    padding-left: 5px;
+    height: 35px;
+    width: 25px;
+    background-color: blue;
+}
+.icon{
+    height: 20px;
+    width: 20px;
+}
